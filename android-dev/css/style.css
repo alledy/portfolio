@@ -440,6 +440,7 @@ body.offcanvas {
 .colorlib-blog,
 .colorlib-work,
 .colorlib-about,
+.colorlib-projects,
 .colorlib-installation,
 .colorlib-services,
 .colorlib-contact {
@@ -455,6 +456,7 @@ body.offcanvas {
     .colorlib-blog,
     .colorlib-work,
     .colorlib-about,
+    .colorlib-projects,
     .colorlib-installation,
     .colorlib-services,
     .colorlib-contact {
